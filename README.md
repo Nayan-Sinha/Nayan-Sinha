@@ -9,13 +9,12 @@
    - 👨‍💻 I have worked with Next Education India Pvt. Ltd. (NEIPL) as a Networking Engineer.
    - 🌱 I’m currently learning ... Java Script, Data Analytics
    - 👯 I’m looking to collaborate on ... Web Development Projects
-   - 📫 Get in Touch: 
-            LinkedIn - https://www.linkedin.com/in/nayan-kumar-sinha-046bb31b6
-            Personal Site - https://nayanweby.epizy.com          
+   - 📫 Get in Touch: <a href="https://twitter.com/Nayan_Kr_Sinha">Twitter</a>
+                      <a href="https://www.linkedin.com/in/nayan-kumar-sinha-046bb31b6">LinkedIn</a>       
 
-<p><img align="left" img src="https://komarev.com/ghpvc/?username=Nayan-Sinha&label=Profile%20views&color=129e00&style=plastic" alt="Nayan-Sinha"/></p>
+<p><img align="left"> <img src="https://komarev.com/ghpvc/?username=Nayan-Sinha&label=Profile%20views&color=129e00&style=plastic" alt="Nayan-Sinha"/></p>
         
-<p><img align="left" img src="https://visitor-badge.glitch.me/badge?page_id=Nayan-Sinha.Nayan-Sinha" alt="Visitors Counter" alt="Nayan-Sinha"/> </p>
+<p><img align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=Nayan-Sinha.Nayan-Sinha" alt="Visitors Counter" alt="Nayan-Sinha"/> </p>
 
 
 
