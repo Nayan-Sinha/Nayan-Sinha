@@ -9,7 +9,7 @@
    - 👨‍💻 I have worked with Next Education India Pvt. Ltd. (NEIPL) as a Networking Engineer.
    - 🌱 I’m currently learning ... Java Script, Data Analytics
    - 👯 I’m looking to collaborate on ... Web Development Projects
-   - 📫 Get in Touch: <a href="https://twitter.com/Nayan_Kr_Sinha">Twitter</a>
+   - 📫 Get in Touch: <a href="https://twitter.com/Nayan_Kr_Sinha">Twitter, </a>
                       <a href="https://www.linkedin.com/in/nayan-kumar-sinha-046bb31b6">LinkedIn</a>       
 
 <p><img align="left"> <img src="https://komarev.com/ghpvc/?username=Nayan-Sinha&label=Profile%20views&color=129e00&style=plastic" alt="Nayan-Sinha"/></p>
