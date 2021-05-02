@@ -4,20 +4,6 @@
             style="max-width:100%;"></a></h2>
 <h3 align="center">A Tech Enthusiast and a Aspiring Web Developer 👨‍💻</h3>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<style>
-.fa {
-  padding: 20px;
-  font-size: 30px;
-  width: 50px;
-  text-align: center;
-  text-decoration: none;
-}
-
-/* Add a hover effect if you want */
-.fa:hover {
-  opacity: 0.7;
-}
-</style>
             
    - 👨‍🎓 I'm currently pursuing 2nd year B Tech in CSE at Siliguri Institute of Technology under MAKAUT university.
    - 👨‍💻 I have worked with Next Education India Pvt. Ltd. (NEIPL) as a Networking Engineer.
