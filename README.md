@@ -14,8 +14,6 @@
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sumitvajarinkar" height="30"
             width="40" /></a> 
 
-
-
 <p><img align="left" img src="https://komarev.com/ghpvc/?username=sumitvajarinkar&label=Profile%20views&color=129e00&style=plastic" alt="Nayan-Sinha"/></p>
         
 <p><img align="left" img src="https://visitor-badge.glitch.me/badge?page_id=surjithctly.surjithctly" alt="Visitors Counter" alt="Nayan-Sinha"/> </p>
