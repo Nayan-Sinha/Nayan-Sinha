@@ -17,6 +17,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nayan-Sinha&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
 </a>
 
+<br>
 [![Twitter: Nayan](https://img.shields.io/twitter/follow/Nayan?style=social)](https://twitter.com/Nayan_Kr_Sinha)
 [![Linkedin: Nayan](https://img.shields.io/badge/-Nayan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nayan-kumar-sinha-046bb31b6/)](https://www.linkedin.com/in/nayan-kumar-sinha-046bb31b6/)
 
