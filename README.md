@@ -8,7 +8,9 @@
    - 👨‍🎓 I'm currently pursuing 2nd year B Tech in CSE at Siliguri Institute of Technology under MAKAUT university.
    - 👨‍💻 I have worked with Next Education India Pvt. Ltd. (NEIPL) as a Networking Engineer.
    - 🌱 I’m currently learning ... Java Script, Data Analytics
-   - 👯 I’m looking to collaborate on ... Web Development Projects     
+   - 👯 I’m looking to collaborate on ... Web Development Projects 
+   - 😄 Pronouns: He/His
+   - ⚡ Fun fact: I spend almost 10 hrs on YouTube everyday, viewing new trends, tech videos, etc  
 
 <a href="https://github.com/Nayan-Sinha">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayan-Sinha&theme=light&hide_langs_below=1" />
@@ -17,6 +19,10 @@
 <a href="https://github.com/Nayan-Sinha">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nayan-Sinha&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
 </a>
+
+[![Twitter: Nayan](https://img.shields.io/twitter/follow/Nayan?style=social)](https://twitter.com/Nayan_Kr_Sinha)
+[![Linkedin: Nayan](https://img.shields.io/badge/-Nayan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nayan-kumar-sinha-046bb31b6/)](https://www.linkedin.com/in/nayan-kumar-sinha-046bb31b6/)
+
 
 
 
