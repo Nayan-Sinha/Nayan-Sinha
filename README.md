@@ -8,13 +8,12 @@
    - 👨‍🎓 I'm currently pursuing 2nd year B Tech in CSE at Siliguri Institute of Technology under MAKAUT university.
    - 👨‍💻 I have worked with Next Education India Pvt. Ltd. (NEIPL) as a Networking Engineer.
    - 🌱 I’m currently learning ... Java Script, Data Analytics
-   - 👯 I’m looking to collaborate on ... Web Development Projects
-   - 📫 Get in Touch: <a href="https://twitter.com/Nayan_Kr_Sinha">Twitter</a>,
-                      <a href="https://www.linkedin.com/in/nayan-kumar-sinha-046bb31b6">LinkedIn</a>       
+   - 👯 I’m looking to collaborate on ... Web Development Projects     
 
-<p><img align="left"> <img src="https://komarev.com/ghpvc/?username=Nayan-Sinha&label=Profile%20views&color=129e00&style=plastic" alt="Nayan-Sinha"/></p>
-        
-<p><img align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=Nayan-Sinha.Nayan-Sinha" alt="Visitors Counter" alt="Nayan-Sinha"/> </p>
+<p><img align="left"> <img src="https://komarev.com/ghpvc/?username=Nayan-Sinha&label=Profile%20views&color=129e00&style=plastic" alt="Nayan-Sinha"/><img src="https://visitor-badge.glitch.me/badge?page_id=Nayan-Sinha.Nayan-Sinha" alt="Visitors Counter" alt="Nayan-Sinha"/> </p>
+
+[![Twitter: Nayan](https://img.shields.io/twitter/follow/Nayan?style=social)](https://twitter.com/Nayan_Kr_Sinha)
+[![Linkedin: Nayan](https://img.shields.io/badge/-Nayan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nayan-kumar-sinha-046bb31b6/)](https://www.linkedin.com/in/nayan-kumar-sinha-046bb31b6/)
 
 
 
