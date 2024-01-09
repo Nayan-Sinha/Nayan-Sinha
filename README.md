@@ -5,12 +5,12 @@
 <h3 align="center">A Tech Enthusiast and a Aspiring Web Developer 👨‍💻</h3>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
             
-   - 👨‍🎓 I'm currently pursuing Final year B Tech in CSE at Siliguri Institute of Technology under MAKAUT university.
+   - 👨‍🎓 I have done B.Tech in CSE at Siliguri Institute of Technology under MAKAUT university.
    - 👨‍💻 I have worked with Next Education India Pvt. Ltd. (NEIPL) as a Networking Engineer.
-   - 🌱 I’m currently learning ... Java Script, Data Analytics
+   - 🌱 I’m currently learning ... Data Analytics
    - 👯 I’m looking to collaborate on ... Web Development Projects 
    - 😄 Pronouns: He/His
-   - ⚡ Fun fact: I spend almost 15 hrs on YouTube everyday, viewing new trends, tech videos, etc  
+   - ⚡ Fun fact: I spend almost 7 hrs on YouTube everyday, viewing new trends, tech videos, etc  
 
 [![Twitter: Nayan](https://img.shields.io/twitter/follow/Nayan?style=social)](https://twitter.com/Nayan_Kr_Sinha)
 [![Linkedin: Nayan](https://img.shields.io/badge/-Nayan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nayan-kumar-sinha-046bb31b6/)](https://www.linkedin.com/in/nayan-kumar-sinha-046bb31b6/)
