@@ -2,7 +2,7 @@
             src="https://media4.giphy.com/media/ujrj9aoOdNvXO/200w.webp?cid=ecf05e47jrjwamzhe80kct51tclqqo69iwnxhjkyh7syb2of&rid=200w.webp"
             width="100" data-canonical-src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif"
             style="max-width:100%;"></a></h2>
-<h3 align="center">A Tech Enthusiast and a Aspiring Web Developer 👨‍💻</h3>
+<h3 align="center">A Tech Enthusiast 👨‍💻</h3>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
             
    - 👨‍🎓 I have done B.Tech in CSE at Siliguri Institute of Technology under MAKAUT university.
