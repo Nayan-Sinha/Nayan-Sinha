@@ -6,7 +6,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
             
    - 👨‍🎓 I have done B.Tech in CSE at Siliguri Institute of Technology under MAKAUT university.
-   - 👨‍💻 At present I am working in Randstad as L2 support Engineer.
+   - 👨‍💻 At present I am working in Randstad India as L2 support Engineer.
    - 🌱 I’m also currently learning ... Data Analytics in Power BI
    - 👯 I’m looking to collaborate on ... Web Development Projects 
    - 😄 Pronouns: He/His
